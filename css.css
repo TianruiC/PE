@@ -1,3 +1,6 @@
 summary > p{
   color:red;
 }
+p{
+  font-size: 10px;
+}
